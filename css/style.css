@@ -1,0 +1,15 @@
+h3{
+	color: green;
+	font-size: 33px;
+	border: 4px dotted skyblue;
+}
+.bg_gray{
+	background: gray;
+	color: white;
+}
+#big_font{
+	font-size: 33px;
+}
+.bg_dark{
+	background: black;
+}
